@@ -28,3 +28,9 @@ figcaption {
 }
 
 /* Class selector */
+
+.milk-test {
+  font: bold 2.5em 'Elsie Swash Caps', cursive;
+  color: white;
+  text-shadow: 0 2px 3px #000;
+}
