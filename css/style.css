@@ -27,10 +27,12 @@ figcaption {
   text-align: right;
 }
 
-/* Class selector */
+/* Class selector (applied to as many elements as you like)*/
 
 .milk-test {
   font: bold 2.5em 'Elsie Swash Caps', cursive;
   color: white;
   text-shadow: 0 2px 3px #000;
 }
+
+/*ID selector (appy to one unique element per page) */
